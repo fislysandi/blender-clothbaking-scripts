@@ -1,0 +1,3 @@
+* Hello !
+
+this repo contains scripts that mostly automate the process of attaching empties to vertecies,attaching bones to the empties,and weighting those vertecies to bones.
